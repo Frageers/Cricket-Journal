@@ -1,0 +1,37 @@
+#topIntro{
+    display: flex;
+    background-color: lightgray;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    width: span;
+    color: white;
+}
+#text{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.navbar ul {
+
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a {
+
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: left;
+}
+
+.navbar a:hover {
+
+    background-color: blue;
+    color: white;
+}

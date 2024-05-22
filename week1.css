@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+
+#heading{
+    text-align: center;
+}
+
+#day1Text{
+    text-align: left;
+}
+#day2Text{
+    text-align: right;
+}
+
+#day3Text{
+    text-align: left;
+}
+
+#day4Text{
+    text-align: right;
+}
+
+#day5Text{
+    text-align: left;
+}
+
+#day6Text{
+    text-align: right;
+}
